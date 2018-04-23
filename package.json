@@ -1,0 +1,19 @@
+{
+  "name": "xls-to-json-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^9.6.2",
+    "xlsx": "^0.12.6"
+  },
+  "devDependencies": {
+    "ts-node": "^5.0.1",
+    "typescript": "^2.8.1"
+  }
+}
